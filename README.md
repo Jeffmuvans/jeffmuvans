@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there! 👋 I'm Jefferson Andrés Muñoz Vanstrahlen
 
-<!--
-**Jeffmuvans/jeffmuvans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast and aspiring software developer with a strong interest in process automation, artificial intelligence, and building solutions that make everyday tasks more efficient.
 
-Here are some ideas to get you started:
+🌟 Passions:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring innovative ways to integrate technology into workflows.
+Creating intuitive software with user-friendly interfaces.
+Continuous learning and sharing knowledge with the tech community.
+💻 Tech Stack:
+
+Languages: Python, JavaScript, and AutoHotkey (AHK).
+Tools: Google Apps Script, Google Sheets, and OCR technology.
+Focus: Developing automated systems, leveraging APIs, and working with data-driven applications.
+🎨 Creative Side:
+I also enjoy graphic design and have a keen eye for blending functionality with aesthetics.
+
+📈 Goals:
+
+Contribute to open-source projects.
+Expand my expertise in AI and machine learning.
+Collaborate with like-minded developers on impactful projects.
+🌍 Dreams:
+Freedom to travel, a career in technology, and always striving to live a healthy and fulfilling life.
